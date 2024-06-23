@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.Introduction", "1.Introduction", "{925DA8E4-323B-4EE9-A2BF-B014CABF086A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicConsoleApp", "1.Introduction\BasicConsoleApp\BasicConsoleApp.csproj", "{9273B7F4-0D40-4337-B165-3988B5DB4E4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9273B7F4-0D40-4337-B165-3988B5DB4E4F} = {925DA8E4-323B-4EE9-A2BF-B014CABF086A}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9273B7F4-0D40-4337-B165-3988B5DB4E4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9273B7F4-0D40-4337-B165-3988B5DB4E4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9273B7F4-0D40-4337-B165-3988B5DB4E4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9273B7F4-0D40-4337-B165-3988B5DB4E4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
